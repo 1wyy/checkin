@@ -6,7 +6,19 @@
         },
         {
             "name": "user2",
-            "sid": "xxxxxxxxPrOuK5uupNy4anCRpX9B5V-k00a2e1a9c07b7d25"
+            "sid": "V02Sm3TFyiLdo1T2YuJoOuE8vgWq1Gc00ae2683a00101841a9"
+        }
+         {
+            "name": "user3",
+            "sid": "V02Sm3TFyiLdo1T2YuJoOuE8vgWq1Gc00ae2683a00101841a9"
+        }
+         {
+            "name": "user4",
+            "sid": "V02Sm3TFyiLdo1T2YuJoOuE8vgWq1Gc00ae2683a00101841a9"
+        }
+         {
+            "name": "user5",
+            "sid": "V02Sm3TFyiLdo1T2YuJoOuE8vgWq1Gc00ae2683a00101841a9"
         }
     ],
     "wps_invite": [
