@@ -20,6 +20,49 @@ def _wps_checkin(data):
     for item in sid:
         print("\n    为{}签到---↓".format(item['name']))
         wps_clockin(item['sid'])
+        def _wps_checkin(data):
+    sid = data['wps_checkin']
+
+    print("\n            ===模拟[我的wps小程序]签到===")
+    for item in sid:
+        print("\n    为{}签到---↓".format(item['name']))
+        wps_clockin(item['sid'])
+def _wps_checkin(data):
+    sid = data['wps_checkin']
+
+    print("\n            ===模拟[我的wps小程序]签到===")
+    for item in sid:
+        print("\n    为{}签到---↓".format(item['name']))
+        wps_clockin(item['sid'])
+def _wps_checkin(data):
+    sid = data['wps_checkin']
+
+    print("\n            ===模拟[我的wps小程序]签到===")
+    for item in sid:
+        print("\n    为{}签到---↓".format(item['name']))
+        wps_clockin(item['sid'])
+def _wps_checkin(data):
+    sid = data['wps_checkin']
+
+    print("\n            ===模拟[我的wps小程序]签到===")
+    for item in sid:
+        print("\n    为{}签到---↓".format(item['name']))
+        wps_clockin(item['sid'])
+def _wps_checkin(data):
+    sid = data['wps_checkin']
+
+    print("\n            ===模拟[我的wps小程序]签到===")
+    for item in sid:
+        print("\n    为{}签到---↓".format(item['name']))
+        wps_clockin(item['sid'])
+def _wps_checkin(data):
+    sid = data['wps_checkin']
+
+    print("\n            ===模拟[我的wps小程序]签到===")
+    for item in sid:
+        print("\n    为{}签到---↓".format(item['name']))
+        wps_clockin(item['sid'])
+
 
 
 def _wps_invite(data):
